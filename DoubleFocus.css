@@ -15,8 +15,9 @@ body {
   background-color: #fff8d8;
   padding: 1em;
 }
-.castle {
-  color:"gray"
+.more {
+  color:"gray";
+  font-size: 70%;
 }
 h1 {
   font-size: 150%;
