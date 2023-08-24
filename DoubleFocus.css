@@ -16,7 +16,7 @@ body {
   padding: 1em;
 }
 .castle {
-  color:gray
+  color:"gray"
 }
 h1 {
   font-size: 150%;
